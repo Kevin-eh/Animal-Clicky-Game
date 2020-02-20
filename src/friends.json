@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/74/GulliverNL.png/revision/latest/scale-to-width-down/200?cb=20130729111729",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/Acnl-saharah.png/revision/latest/scale-to-width-down/200?cb=20130707101048",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fb/Acnl-mabel.png/revision/latest/scale-to-width-down/200?cb=20140727174432",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/29/200px-Kicks_3DS.png/revision/latest/scale-to-width-down/200?cb=20140718172000",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5e/Blathers_-_Animal_Crossing_New_Leaf.png/revision/latest/scale-to-width-down/200?cb=20130807000633",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2b/NH-character-K.K._Slider.png/revision/latest/scale-to-width-down/175?cb=20191228194056",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ef/NH-character-Tom_Nook.png/revision/latest/scale-to-width-down/150?cb=20191228193640",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/26/Isabelle_AF.png/revision/latest/scale-to-width-down/175?cb=20161008142729",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/68/Zell.png/revision/latest/scale-to-width-down/150?cb=20130605214411",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5c/Resetti.png/revision/latest/scale-to-width-down/200?cb=20151019151629",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/70/Bones_NewLeaf_Official.png/revision/latest/scale-to-width-down/150?cb=20130721174243",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4b/Kiki_NL.png/revision/latest/scale-to-width-down/150?cb=20130708021703",
+    "clicked": false
+  }
+]
