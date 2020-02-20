@@ -1,7 +1,7 @@
 {
   "name": "reactpractice",
   "version": "0.1.0",
-  "homepage": "http://kevin-eh.github.io/Animal-Clicky-Game",
+  "homepage": "http://Kevin-eh.github.io/Animal-Clicky-Game",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
