@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Animal-Clicky-Game/static/css/main.a6d94f98.chunk.css",
+    "main.js": "/Animal-Clicky-Game/static/js/main.7ec4ac92.chunk.js",
+    "main.js.map": "/Animal-Clicky-Game/static/js/main.7ec4ac92.chunk.js.map",
+    "runtime-main.js": "/Animal-Clicky-Game/static/js/runtime-main.60fd0972.js",
+    "runtime-main.js.map": "/Animal-Clicky-Game/static/js/runtime-main.60fd0972.js.map",
+    "static/js/2.a2eaa613.chunk.js": "/Animal-Clicky-Game/static/js/2.a2eaa613.chunk.js",
+    "static/js/2.a2eaa613.chunk.js.map": "/Animal-Clicky-Game/static/js/2.a2eaa613.chunk.js.map",
+    "index.html": "/Animal-Clicky-Game/index.html",
+    "precache-manifest.cfcf59187b352072afbf09bc2cb334a6.js": "/Animal-Clicky-Game/precache-manifest.cfcf59187b352072afbf09bc2cb334a6.js",
+    "service-worker.js": "/Animal-Clicky-Game/service-worker.js",
+    "static/css/main.a6d94f98.chunk.css.map": "/Animal-Clicky-Game/static/css/main.a6d94f98.chunk.css.map",
+    "static/js/2.a2eaa613.chunk.js.LICENSE.txt": "/Animal-Clicky-Game/static/js/2.a2eaa613.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/Animal-Clicky-Game/static/media/grass.eda84763.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.60fd0972.js",
+    "static/js/2.a2eaa613.chunk.js",
+    "static/css/main.a6d94f98.chunk.css",
+    "static/js/main.7ec4ac92.chunk.js"
+  ]
+}
